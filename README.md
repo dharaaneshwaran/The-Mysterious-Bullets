@@ -1,3 +1,3 @@
 # The-Mysterious-Bullets
 
-This the project is to find the sum of two numbers
+This the project is to find the product of two numbers
